@@ -1,28 +1,28 @@
-# Abridged Syllabus DS 4002: Data Projects
+# Abridged Syllabus DS 4002: Data Science Project
 
 **All course details are posted on the [course Canvas page](https://canvas.its.virginia.edu/courses/167466).**
 
 **Instructors**: 
-   * 11:00 - 11:50 section 02: Karsten Siller (khs3z) and Cole Whittington (xxn2pb)
+   * 11:00 - 11:50 section 002: Karsten Siller (khs3z) and Cole Whittington (xxn2pb)
 
 **Office Hours**:
    - **Karsten Siller**:
         - *Dates and times*: Wednesdays 1:00-3:00 p.m.
-        - *Location*:  Data Science 344
+        - *Location*:  Data Science 436
    - **Cole Whittington**: 
-        - *Dates and times*: tbd
+        - *Dates and times*: TBD
         - *Location*: The Hub, 2nd Floor
           
 **Subject Area and Catalog Number**: Data Science, DS 4002
 
-**Term** : Spring 2026
+**Term**: Spring 2026
 
 **Meeting times**:     
-   * Section 001 - 11:00-11:50, MWF
+   * Section 002: 11:00-11:50, MWF
 
 **Class Location**: Data Science Room 206
 
-**Class Title**: Prototyping (in SIS: Data Science Project Course)
+**Class Title**: Data Science Project
 
 **Level**: Undergraduate
 
@@ -68,33 +68,33 @@ contribute to the community. Learning objectives include:
 
 
 ## How You’ll Know You Are Learning (Assessments)
-This class uses the Specifications grading system. Like a more traditional system the course is broken up into assignments but they are all graded on a single-level rubric system. For many students it is an unfamiliar system and requires a little adjustment but once you get used to it you will really enjoy the benefits. Details are here: [Grading Policy](grading.md). Alignment to the learning objectives is shown in the individual rubrics. 
+This class uses the Specifications grading system. Like a more traditional system, the course is broken up into assignments but they are all graded on a single-level rubric system. For many students it is an unfamiliar system and requires a little adjustment but once you get used to it you will really enjoy the benefits. Details are here: [Grading Policy](grading.md). Alignment to the learning objectives is shown in the individual rubrics. 
 
 ## Schedule of Topics 
 
-| Week 	  | Date          |Project # 	| Plan 	                  |Milestone Due|   B Bundle | A Bundle   |
-|:---:	  |:---:          |:---:	    |:---:	                  |:---:        |:---:	| :---: |
-| Week 1  | 8/27,29       |0	        | Course Philosophy       |             |       | |
-| Week 2  | 9/1,3,5       |0          | DS project fundamentals |             |       | |
-| Week 3  | 9/8,10,12     | 1         | Begin Project 1         | MI1	        |       | |
-| Week 4  | 9/15,17,19    | 1         |                         | MI2         |       | |
-| Week 5  | 9/22,24,26    | 1         |                         | MI3         |       | |
-| Week 6	| 9/29,10/1,3   | 1	        |  Presentation Week      | MI4         | CC1,CC2,ID1 due 10/6 | |
-| Week 7  | 10/6,8,10     | 2         |  Begin Project 2	      | MI1         | | Open CS 1, CS 2  |
-| Week 8  | 10/15,17      | 2	        |  no class 10/13	        | MI2         | |
-| Week 9  | 10/20,22,24   | 2	        |                 	      | MI3         | |
-| Week 10 | 10/27,29,31   | 2         |  Presentation Week      | MI4         | CC1,CC2,ID1 due 11/3 | CS1,CS2 Due 10/31 | 
-| Week 11 | 11/3,5,7      | 3         |  Begin Project 3        | MI1         | | Open CS 3 |
-| Week 12 | 11/10,12,14   |  3        |	                        | MI2         | | |
-| Week 13 | 11/17,19,21   |  3        |                         | MI3         | | |
-| Week 14 | 11/24         |  3        |  Thanksgiving           |             | | |
-| Week 15 | 12/1,3,5      |  3        | 	Presentation Week     | MI4         | CC1,CC2,ID1 due 12/8 | CS3 Due 12/5 |
-| Week 16 | 12/8          | Make UP 	|                         |    	        |      |
-| Exams   | 12/11         |           |  No Exam                |             |      |
+| Week 	| Date           |Project # | Plan |Milestone Due| B Bundle | A Bundle |
+|:---:	|:---:           |:---:	   |:---:     |:---:     |:---:	 | :---: |
+| Week 1  | 1/12, 1/14, 1/16   | 0 | Course Philosophy       |     | | |
+| Week 2  | 1/21, 1/23       | 0 | DS Project Fundamentals |     | | |
+| Week 3  | 1/26, 1/28, 1/30   | 1 | Begin Project 1         | MI1 | | |
+| Week 4  | 2/2, 2/4, 2/6      | 1 |                         | MI2 | | |
+| Week 5  | 2/9, 2/11, 2/13    | 1 |                         | MI3 | | |
+| Week 6	| 2/16, 2/18, 2/20   | 1 | Presentation Week       | MI4 | CC1, CC2, ID1 due 2/23 | |
+| Week 7  | 2/23, 2/25, 2/27     | 2 |  Begin Project 2	       | MI1 |                      | Open CS 1, CS 2  |
+|         | 2/28 - 3/8     |   | ***Spring Recess***     | | | |
+| Week 8  | 3/9, 3/11, 3/13    | 2 |  	                      | MI2 | |
+| Week 9  | 3/16, 3/18, 3/20  | 2 |                         | MI3 | |
+| Week 10 | 3/23, 3/25, 3/27   | 2 | Presentation Week       | MI4 | CC1, CC2, ID1 due 3/30 | CS1, CS2 Due 3/27 | 
+| Week 11 | 3/30, 4/1, 4/3 | 3 | Begin Project 3         | MI1 | | Open CS 3 |
+| Week 12 | 4/6, 4/8, 4/10     | 3 |	                      | MI2 | | |
+| Week 13 | 4/13, 4/15, 4/17   | 3 |                         | MI3 | | |
+| Week 14 | 4/20, 4/22, 4/24   | 3 | Presentation Week       | MI4 | CC1, CC2, ID1 due 4/27 | CS3 Due 4/24 |
+| Week 15 | 4/27           |   | Course Wrap-Up 	       |     | | |
+| Exams   | 5/1            |   | No Exam                 |     | | |
 
+* Class attendance is expected.
 * N.B. There is no final exam for this class.
-* Attendance credit is earned during the project cycles. I.e. from 9/8 through 12/3.
-* Due dates are listed in [Canvas](https://canvas.its.virginia.edu/courses/167466) and submissions are made via Canvas except for CS3. No assignments can be accepted after 12/11.
+* Due dates are listed in [Canvas](https://canvas.its.virginia.edu/courses/167466) and submissions are made via Canvas except for CS3. No assignments can be accepted after 5/1.
 
 ## A few Policies that will Govern the Class
 Attendance Policy: The majority of the project work for this class is done during class. As such attendance is part of the course grade. Details are in the grading details page [Grading Policy](grading.md).
