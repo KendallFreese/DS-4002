@@ -84,13 +84,13 @@ This class uses the Specifications grading system. Like a more traditional syste
 |         | 2/28 - 3/8     |   | ***Spring Recess***     | | | |
 | Week 8  | 3/9, 3/11, 3/13    | 2 |  	                      | MI2 | |
 | Week 9  | 3/16, 3/18, 3/20  | 2 |                         | MI3 | |
-| Week 10 | 3/23, 3/25, 3/27   | 2 | Presentation Week       | MI4 | CC1, CC2, ID1 due 3/29 | CS1, CS2 Due 3/27 | 
+| Week 10 | 3/23, 3/25, 3/27   | 2 | Presentation Week       | MI4 | CC1, CC2, ID1 due 3/29 |  | 
 | Week 11 | 3/30, 4/1, 4/3 | 3 | Begin Project 3         | MI1 | | Open CS 3 |
 | Week 12 | 4/6, 4/8, 4/10     | 3 |	                      | MI2 | | |
 | Week 13 | 4/13, 4/15, 4/17   | 3 |                         | MI3 | | |
-| Week 14 | 4/20, 4/22, 4/24   | 3 | Presentation Week       | MI4 | CC1, CC2, ID1 due 4/26 | CS3 Due 5/6 |
-| Week 15 | 4/27           |   | Course Wrap-Up 	       |     | | |
-|   | 5/6            |   | Final Submissions Due - No Exam                 |     | | |
+| Week 14 | 4/20, 4/22, 4/24   | 3 | Presentation Week       | MI4 | CC1, CC2, ID1 due 4/26 |  |
+| Week 15 | 4/27           |   | Course Wrap-Up 	       |     | | CS1 Due 5/1|
+|   | 5/6            |   | Final Submissions Due - No Exam                 |     | | CS2, CS3 Due 5/6 |
 
 * Class attendance is expected.
 * N.B. There is no final exam for this class.
